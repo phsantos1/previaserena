@@ -1,0 +1,6 @@
+{
+  "name": "Serene SPA - Salão de Beleza & Head Spa",
+  "description": "Salão de beleza e refúgio de bem-estar em Formiga - MG. Head Spa sensorial, massagens relaxantes, ventosaterapia e estética exclusiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
